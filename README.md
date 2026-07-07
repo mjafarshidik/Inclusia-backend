@@ -67,14 +67,40 @@ graph TD
 
 ## 🚀 Getting Started
 
-### 1. Prerequisites
-- Python 3.9 or above (Python 3.10+ recommended)
-- Firebase Project setup with Service Account Key file (`serviceAccountKey.json`)
-- Gemini API Key
+Follow the steps below to set up Inclusia Backend locally and deploy it to Cloud Run.
+
+### 1. External Services Setup
+
+#### A. Gemini API Setup
+1. Visit [Google AI Studio](https://aistudio.google.com/).
+2. Create or select a Google Cloud project.
+3. Click **Get API key** and copy your generated key.
+4. Keep this key handy to use as `GEMINI_API_KEY` in the environment configuration.
+
+#### B. Firebase Setup
+1. Open the [Firebase Console](https://console.firebase.google.com/).
+2. Click **Add Project** and create a new project (e.g., `inclusia-accessibility`).
+3. **Authentication**: Enable Authentication from the sidebar and configure your desired Sign-in providers (e.g., Email/Password, Google).
+4. **Firestore Database**: Navigate to Firestore Database, click **Create database**, choose your location, and set your starting security rules.
+5. **Storage**: Navigate to Storage, click **Get Started**, choose your location, and configure rules. Take note of the storage bucket URL (e.g., `your-project.firebasestorage.app` or `your-project.appspot.com`).
+6. **Service Account Key**:
+   - Click the gear icon next to "Project Overview" and choose **Project settings**.
+   - Navigate to the **Service accounts** tab.
+   - Click **Generate new private key** to download the credentials JSON file.
+   - Place this file in `backend/firebase/serviceAccountKey.json`.
+
+#### C. MinerU API Setup
+1. Sign up/log in at the [MinerU Official Portal](https://mineru.net/).
+2. Go to the developer/API Token management dashboard.
+3. Generate and copy your API Token.
+4. This key is used by the pipeline to parse PDFs and extract images via MinerU's layout-aware parsing. Keep it for `MINERU_API_KEY`.
+
+---
 
 ### 2. Local Environment Setup
 
-Clone this repository and go to the backend directory:
+#### A. Clone & Install Dependencies
+Navigate to the `backend/` directory, set up a virtual environment, and install the dependencies:
 ```bash
 cd backend
 python -m venv venv
@@ -82,26 +108,67 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 3. Credentials Configuration
+#### B. Configure Environment Variables
 Create a `.env` file in the `backend/` directory:
 ```env
-GEMINI_API_KEY=your_gemini_api_key_here
 PORT=5001
 FLASK_ENV=development
-```
-Place your Firebase Admin SDK service account key file inside `backend/firebase/serviceAccountKey.json`.
 
-### 4. Running the App Locally
+# APIs
+GEMINI_API_KEY=your_gemini_api_key_here
+MINERU_API_KEY=your_mineru_api_key_here
+
+# Firebase
+FIREBASE_PROJECT_ID=your_firebase_project_id_here
+FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket_here
+FIREBASE_CREDENTIALS=firebase/serviceAccountKey.json
+```
+Make sure `backend/firebase/serviceAccountKey.json` contains your Firebase service account JSON.
+
+#### C. Run the Application
+Start the local server by running:
 ```bash
 python app.py
 ```
 The server will start running at `http://localhost:5001`.
 
-### 5. Running the Tests
-To verify all integrations, database mocks, and agent orchestrators, run:
+#### D. Run Tests
+To verify integrations, mocks, and agent orchestrators, run:
 ```bash
 python -m unittest discover tests
 ```
+
+---
+
+### 3. Google Cloud Run Deployment
+
+Google Cloud Run allows serverless execution of containerized applications.
+
+#### A. Prerequisites
+1. Install the [Google Cloud CLI](https://cloud.google.com/sdk/gcloud).
+2. Authenticate and configure your active project:
+   ```bash
+   gcloud auth login
+   gcloud config set project YOUR_PROJECT_ID
+   ```
+3. Enable Cloud Run and Cloud Build APIs in your GCP Console.
+
+#### B. Deploy from Source
+Run the deployment command directly from the `backend/` directory. Cloud Run will automatically package the codebase via Cloud Build using the provided [Dockerfile](file:///Users/mjafarshidik/Backup/Inclusia/backend/Dockerfile):
+```bash
+gcloud run deploy inclusia-backend \
+  --source . \
+  --region us-central1 \
+  --allow-unauthenticated \
+  --set-env-vars GEMINI_API_KEY="your_gemini_api_key_here" \
+  --set-env-vars MINERU_API_KEY="your_mineru_api_key_here" \
+  --set-env-vars FIREBASE_PROJECT_ID="your_firebase_project_id_here" \
+  --set-env-vars FIREBASE_STORAGE_BUCKET="your_firebase_storage_bucket_here" \
+  --set-env-vars FIREBASE_CREDENTIALS="firebase/serviceAccountKey.json"
+```
+
+> [!TIP]
+> In production environments, it is recommended to store your `serviceAccountKey.json` inside **Google Secret Manager** and inject it as a volume mount, or grant the Cloud Run Service Account the `Cloud Datastore User` and `Storage Object Admin` IAM roles to bypass manual key configuration.
 
 ---
 
