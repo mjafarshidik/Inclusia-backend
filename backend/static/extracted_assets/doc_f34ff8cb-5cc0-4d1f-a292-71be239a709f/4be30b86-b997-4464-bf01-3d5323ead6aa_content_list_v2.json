@@ -1,0 +1,773 @@
+[
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "membaca dan memahami masalah, kemudian berpasangan dan secara bergiliran menjelaskan masalahnya, kemudian guru meminta beberapa pasang untuk menjelaskan masalah kepada seluruh kelas."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                104,
+                859,
+                168
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Tahap ini penting dilakukan untuk membiasakan siswa membaca masalah secara teliti, dan memahami apa yang menjadi inti permasalahan, dan memilah informasi apa yang penting dan relevan. Strategi ini juga melatih kemampuan literasi membaca dari siswa."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                174,
+                859,
+                260
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Setelah eksplorasi beberapa siswa menyampaikan hasil dan alsannya."
+                    }
+                ]
+            },
+            "bbox": [
+                200,
+                266,
+                837,
+                286
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Perhatian:"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                164,
+                296,
+                268,
+                314
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Bagian yang kosong dalam tabel memang dilengkapi oleh siswa."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                325,
+                753,
+                346
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "1. Melengkapi tabel."
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                164,
+                353,
+                368,
+                373
+            ]
+        },
+        {
+            "type": "table",
+            "content": {
+                "image_source": {
+                    "path": "images/4259881fab460732e910c85c5449566d7e87083c495de2816dcea1d28525011d.jpg"
+                },
+                "table_caption": [],
+                "table_footnote": [],
+                "html": "<table><tr><td>Jumlah potong tempe (input)</td><td>Jumlah Keripik yang dihasilkan</td></tr><tr><td>200</td><td>1200</td></tr><tr><td>200,25</td><td>1200</td></tr><tr><td>500,75</td><td>3000</td></tr><tr><td>...</td><td></td></tr><tr><td>600</td><td>3600</td></tr><tr><td>601</td><td>0 (karena mesin berhenti)</td></tr></table>",
+                "table_type": "simple_table",
+                "table_nest_level": 1
+            },
+            "bbox": [
+                203,
+                380,
+                827,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{ x | 2 0 0 \\leq x \\leq 6 0 0 , x \\in R \\}"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                572,
+                446,
+                593
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "3. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in R \\}"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                597,
+                475,
+                618
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "4. "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\begin{array} { r l } & { \\left\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in Z ^ { + } \\right\\} } \\\\ & { \\mathrm { p o s i t i f } } \\end{array}"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dimana Z<sup>+</sup> merupakan bilangan bulat"
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                624,
+                857,
+                665
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "5. Range selalu menjadi subhimpunan dari kodomain."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                672,
+                670,
+                692
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil temuan, yaitu"
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                700,
+                859,
+                741
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● pengertian domain, kodomain dan range terlihat jelas dalam konteks nyata"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                750,
+                859,
+                790
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● penulisan range yang tepat"
+                    }
+                ]
+            },
+            "bbox": [
+                164,
+                797,
+                455,
+                817
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Guru menggunakan penjelasan gambar 1.11 dan 1.12 untuk memantapkan pengertian domain dan range dan penulisannya dalam notasi himpunan."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                825,
+                859,
+                868
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bab 1 | Komposisi Fungsi dan Invers"
+                    }
+                ]
+            },
+            "bbox": [
+                503,
+                916,
+                794,
+                934
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "27"
+                    }
+                ]
+            },
+            "bbox": [
+                820,
+                916,
+                851,
+                932
+            ]
+        }
+    ],
+    [
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Berikan lagi satu contoh jika ada yang belum paham untuk menentukan domain, kodomain dan range serta penulisannya dalam notasi himpunan."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                102,
+                831,
+                144
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/15eb56ad1ebf847409a9d57ae445d69bc22fcc50cb6c7f5fd90824efe83563b6.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                138,
+                157,
+                201,
+                201
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ayo Berkomunikasi"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                203,
+                170,
+                351,
+                188
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Siswa menjelaskan pengertian domain dan range dengan kata-kata sendiri. Guru meminta siswa memperhatikan gambar 1.13 untuk menjelaskan pengertiannya."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                224,
+                833,
+                296
+            ]
+        },
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/28f81c613f1cb058538786427393240fca45f4f8ae5214051de62fdc0704b101.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                138,
+                308,
+                207,
+                356
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Ayo Berpikir Kritis"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                218,
+                322,
+                372,
+                341
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Kalian sudah memahami penggunaan domain, kodomain dan range dalam kehidupan sehari-hari. Berikan contoh lain dalam kehidupan nyata yang membedakan pengertian kodomain dan range."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                364,
+                833,
+                426
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Contoh adalah relasi antara harga barang dengan jumlah barang dalam satuan."
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                434,
+                833,
+                476
+            ]
+        },
+        {
+            "type": "title",
+            "content": {
+                "title_content": [
+                    {
+                        "type": "text",
+                        "content": "Masalah Ketiga"
+                    }
+                ],
+                "level": 2
+            },
+            "bbox": [
+                137,
+                494,
+                329,
+                516
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Pada eksplorasi bagian ketiga ini siswa perlu paham bagaimana fungsi terdefinisi. Grafik sangat menolong untuk menentukan fungsi terdefinisi."
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                518,
+                831,
+                560
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Perhatikan dua grafik dalam gambar 1.14."
+                    }
+                ]
+            },
+            "bbox": [
+                172,
+                568,
+                557,
+                588
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "a. Grafik fungsi akar."
+                    }
+                ]
+            },
+            "bbox": [
+                138,
+                597,
+                350,
+                616
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "1) Kita tahu bahwa karena adanya akar kuadrat, kedua fungsi masingmasing hanya mengambil input "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x \\geq 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": "dan "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "x - 1 \\geq 0"
+                    },
+                    {
+                        "type": "text",
+                        "content": ". Jadi domain dari masing-masing fungsi ialah semua bilangan riil non negatif (untuk fungsi pertama) dan semua bilangan riil lebih dari sama dengan 1 (untuk fungsi kedua)."
+                    }
+                ]
+            },
+            "bbox": [
+                175,
+                626,
+                833,
+                730
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "2) "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "\\{ x \\mid x \\geq 0 , x \\in R \\} , \\{ x \\mid x \\geq 1 , x \\in R \\}"
+                    }
+                ]
+            },
+            "bbox": [
+                174,
+                734,
+                562,
+                756
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "b. Fungsi "
+                    },
+                    {
+                        "type": "equation_inline",
+                        "content": "f ( x ) = { \\frac { x ^ { 2 } - 2 } { x } }"
+                    },
+                    {
+                        "type": "text",
+                        "content": "memiliki domain yang ditentukan oleh pembaginya. Dalam hal ini pembaginya ialah semua nilai x riil dan bukan 0. Range adalah semua bilangan riil. Hal ini bisa dilihat dari grafik di bawah ini:"
+                    }
+                ]
+            },
+            "bbox": [
+                135,
+                770,
+                833,
+                860
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "28"
+                    }
+                ]
+            },
+            "bbox": [
+                137,
+                916,
+                168,
+                932
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Buku Panduan Guru Matematika untuk SMA/SMK Kelas XI"
+                    }
+                ]
+            },
+            "bbox": [
+                183,
+                916,
+                662,
+                933
+            ]
+        }
+    ],
+    [
+        {
+            "type": "image",
+            "content": {
+                "image_source": {
+                    "path": "images/ff2e2cc849078f249bc96480daaef717531ebc439d7c3b388a3232ab07f0cc82.jpg"
+                },
+                "content": "",
+                "image_caption": [],
+                "image_footnote": []
+            },
+            "bbox": [
+                162,
+                98,
+                861,
+                402
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil temuan, yaitu"
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                428,
+                861,
+                469
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● pentingnya memahami fungsi terdefinisi"
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                477,
+                581,
+                498
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "● penulisan domain dan range yang tepat."
+                    }
+                ]
+            },
+            "bbox": [
+                162,
+                504,
+                574,
+                524
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Guru menekankan bahwa penentuan domain dan range suatu fungsi berkaitan dengan konteksnya. Contoh, biaya pembuatan kue diberikan oleh B x^ h = + 40000 10x dengan x adalah jumlah kue. Jika digambarkan maka fungsi ini berupa garis lurus dan domainnya adalah x > 0 dengan x merupakan bilangan bulat. Rangenya juga merupakan bilangan bulat. Minta siswa menemukan contoh-contoh lain yang menunjukkan konteks untuk menentukan domain, kodomain dan range."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                544,
+                861,
+                693
+            ]
+        },
+        {
+            "type": "paragraph",
+            "content": {
+                "paragraph_content": [
+                    {
+                        "type": "text",
+                        "content": "Guru dapat memberikan contoh-contoh lain untuk menentukan domain dan range dari fungsi eksponensial dan fungsi kuadrat. Gunakan grafik terlebih dahulu dilanjutkan dengan bentuk aljabar fungsi."
+                    }
+                ]
+            },
+            "bbox": [
+                161,
+                701,
+                861,
+                765
+            ]
+        },
+        {
+            "type": "page_footer",
+            "content": {
+                "page_footer_content": [
+                    {
+                        "type": "text",
+                        "content": "Bab 1 | Komposisi Fungsi dan Invers"
+                    }
+                ]
+            },
+            "bbox": [
+                501,
+                916,
+                796,
+                933
+            ]
+        },
+        {
+            "type": "page_number",
+            "content": {
+                "page_number_content": [
+                    {
+                        "type": "text",
+                        "content": "29"
+                    }
+                ]
+            },
+            "bbox": [
+                818,
+                916,
+                853,
+                932
+            ]
+        }
+    ]
+]

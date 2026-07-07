@@ -1,0 +1,4397 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        78,
+                        464,
+                        126
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                78,
+                                462,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        78,
+                                        462,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "membaca dan memahami masalah, kemudian berpasangan dan secara",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                94,
+                                462,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        94,
+                                        462,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "bergiliran menjelaskan masalahnya, kemudian guru meminta beberapa",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                111,
+                                372,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        111,
+                                        372,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": "pasang untuk menjelaskan masalah kepada seluruh kelas.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        131,
+                        464,
+                        195
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                132,
+                                462,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        132,
+                                        462,
+                                        144
+                                    ],
+                                    "type": "text",
+                                    "content": "Tahap ini penting dilakukan untuk membiasakan siswa membaca",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                148,
+                                461,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        148,
+                                        461,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "masalah secara teliti, dan memahami apa yang menjadi inti permasalahan,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                164,
+                                462,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        164,
+                                        462,
+                                        178
+                                    ],
+                                    "type": "text",
+                                    "content": "dan memilah informasi apa yang penting dan relevan. Strategi ini juga",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                180,
+                                332,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        180,
+                                        332,
+                                        192
+                                    ],
+                                    "type": "text",
+                                    "content": "melatih kemampuan literasi membaca dari siswa.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        108,
+                        200,
+                        452,
+                        215
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                201,
+                                451,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        201,
+                                        451,
+                                        214
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah eksplorasi beberapa siswa menyampaikan hasil dan alsannya.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        222,
+                        145,
+                        236
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                224,
+                                143,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        224,
+                                        143,
+                                        235
+                                    ],
+                                    "type": "text",
+                                    "content": "Perhatian:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        244,
+                        407,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                246,
+                                406,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        246,
+                                        406,
+                                        258
+                                    ],
+                                    "type": "text",
+                                    "content": "Bagian yang kosong dalam tabel memang dilengkapi oleh siswa.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        265,
+                        199,
+                        280
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                266,
+                                198,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        266,
+                                        198,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Melengkapi tabel.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        110,
+                        285,
+                        447,
+                        420
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                110,
+                                285,
+                                447,
+                                420
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        285,
+                                        447,
+                                        420
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                285,
+                                                447,
+                                                420
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Jumlah potong tempe (input)</td><td>Jumlah Keripik yang dihasilkan</td></tr><tr><td>200</td><td>1200</td></tr><tr><td>200,25</td><td>1200</td></tr><tr><td>500,75</td><td>3000</td></tr><tr><td>...</td><td></td></tr><tr><td>600</td><td>3600</td></tr><tr><td>601</td><td>0 (karena mesin berhenti)</td></tr></table>",
+                                            "image_path": "4259881fab460732e910c85c5449566d7e87083c495de2816dcea1d28525011d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        89,
+                        429,
+                        241,
+                        445
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                429,
+                                240,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        432,
+                                        100,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        112,
+                                        429,
+                                        240,
+                                        444
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ x | 2 0 0 \\leq x \\leq 6 0 0 , x \\in R \\}",
+                                    "score": 0.682
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        448,
+                        257,
+                        464
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                448,
+                                255,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        452,
+                                        100,
+                                        465
+                                    ],
+                                    "type": "text",
+                                    "content": "3.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        448,
+                                        255,
+                                        464
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in R \\}",
+                                    "score": 0.7352
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        468,
+                        463,
+                        499
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                467,
+                                463,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        470,
+                                        101,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "4.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        110,
+                                        467,
+                                        259,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\begin{array} { r l } & { \\left\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in Z ^ { + } \\right\\} } \\\\ & { \\mathrm { p o s i t i f } } \\end{array}",
+                                    "score": 0.5452
+                                },
+                                {
+                                    "bbox": [
+                                        266,
+                                        469,
+                                        463,
+                                        483
+                                    ],
+                                    "type": "text",
+                                    "content": "dimana Z<sup>+</sup> merupakan bilangan bulat",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        504,
+                        362,
+                        519
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                506,
+                                360,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        506,
+                                        360,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "5. Range selalu menjadi subhimpunan dari kodomain.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        525,
+                        464,
+                        556
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                526,
+                                463,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        526,
+                                        463,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                543,
+                                159,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        543,
+                                        159,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "temuan, yaitu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        563,
+                        464,
+                        593
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                564,
+                                462,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        564,
+                                        462,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "● pengertian domain, kodomain dan range terlihat jelas dalam konteks",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                580,
+                                140,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        580,
+                                        140,
+                                        594
+                                    ],
+                                    "type": "text",
+                                    "content": "nyata",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        598,
+                        246,
+                        613
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                599,
+                                244,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        599,
+                                        244,
+                                        612
+                                    ],
+                                    "type": "text",
+                                    "content": "● penulisan range yang tepat",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        619,
+                        464,
+                        651
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                621,
+                                462,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        621,
+                                        462,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru menggunakan penjelasan gambar 1.11 dan 1.12 untuk memantapkan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                636,
+                                463,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        636,
+                                        463,
+                                        652
+                                    ],
+                                    "type": "text",
+                                    "content": "pengertian domain dan range dan penulisannya dalam notasi himpunan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        272,
+                        687,
+                        429,
+                        701
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                689,
+                                428,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        689,
+                                        428,
+                                        699
+                                    ],
+                                    "type": "text",
+                                    "content": "Bab 1 | Komposisi Fungsi dan Invers",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        443,
+                        687,
+                        460,
+                        699
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                442,
+                                687,
+                                460,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        442,
+                                        687,
+                                        460,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": "27",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                540,
+                750
+            ],
+            "page_idx": 0,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        78,
+                        464,
+                        126
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                78,
+                                462,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        78,
+                                        462,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "membaca dan memahami masalah, kemudian berpasangan dan secara",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                94,
+                                462,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        94,
+                                        462,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "bergiliran menjelaskan masalahnya, kemudian guru meminta beberapa",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                111,
+                                372,
+                                122
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        111,
+                                        372,
+                                        122
+                                    ],
+                                    "type": "text",
+                                    "content": "pasang untuk menjelaskan masalah kepada seluruh kelas.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        131,
+                        464,
+                        195
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                132,
+                                462,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        132,
+                                        462,
+                                        144
+                                    ],
+                                    "type": "text",
+                                    "content": "Tahap ini penting dilakukan untuk membiasakan siswa membaca",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                148,
+                                461,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        148,
+                                        461,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "masalah secara teliti, dan memahami apa yang menjadi inti permasalahan,",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                164,
+                                462,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        164,
+                                        462,
+                                        178
+                                    ],
+                                    "type": "text",
+                                    "content": "dan memilah informasi apa yang penting dan relevan. Strategi ini juga",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                180,
+                                332,
+                                192
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        180,
+                                        332,
+                                        192
+                                    ],
+                                    "type": "text",
+                                    "content": "melatih kemampuan literasi membaca dari siswa.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        108,
+                        200,
+                        452,
+                        215
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                201,
+                                451,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        201,
+                                        451,
+                                        214
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah eksplorasi beberapa siswa menyampaikan hasil dan alsannya.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        222,
+                        145,
+                        236
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                224,
+                                143,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        224,
+                                        143,
+                                        235
+                                    ],
+                                    "type": "text",
+                                    "content": "Perhatian:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        88,
+                        244,
+                        407,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                246,
+                                406,
+                                258
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        246,
+                                        406,
+                                        258
+                                    ],
+                                    "type": "text",
+                                    "content": "Bagian yang kosong dalam tabel memang dilengkapi oleh siswa.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        265,
+                        199,
+                        280
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                266,
+                                198,
+                                279
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        266,
+                                        198,
+                                        279
+                                    ],
+                                    "type": "text",
+                                    "content": "1. Melengkapi tabel.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        110,
+                        285,
+                        447,
+                        420
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                110,
+                                285,
+                                447,
+                                420
+                            ],
+                            "type": "table_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        285,
+                                        447,
+                                        420
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                110,
+                                                285,
+                                                447,
+                                                420
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Jumlah potong tempe (input)</td><td>Jumlah Keripik yang dihasilkan</td></tr><tr><td>200</td><td>1200</td></tr><tr><td>200,25</td><td>1200</td></tr><tr><td>500,75</td><td>3000</td></tr><tr><td>...</td><td></td></tr><tr><td>600</td><td>3600</td></tr><tr><td>601</td><td>0 (karena mesin berhenti)</td></tr></table>",
+                                            "image_path": "4259881fab460732e910c85c5449566d7e87083c495de2816dcea1d28525011d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        89,
+                        429,
+                        241,
+                        445
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                429,
+                                240,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        432,
+                                        100,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        112,
+                                        429,
+                                        240,
+                                        444
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ x | 2 0 0 \\leq x \\leq 6 0 0 , x \\in R \\}",
+                                    "score": 0.682
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        448,
+                        257,
+                        464
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                448,
+                                255,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        452,
+                                        100,
+                                        465
+                                    ],
+                                    "type": "text",
+                                    "content": "3.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        111,
+                                        448,
+                                        255,
+                                        464
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in R \\}",
+                                    "score": 0.7352
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        468,
+                        463,
+                        499
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                467,
+                                463,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        470,
+                                        101,
+                                        482
+                                    ],
+                                    "type": "text",
+                                    "content": "4.",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        110,
+                                        467,
+                                        259,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\begin{array} { r l } & { \\left\\{ y \\mid 1 2 0 0 \\leq y \\leq 3 6 0 0 , y \\in Z ^ { + } \\right\\} } \\\\ & { \\mathrm { p o s i t i f } } \\end{array}",
+                                    "score": 0.5452
+                                },
+                                {
+                                    "bbox": [
+                                        266,
+                                        469,
+                                        463,
+                                        483
+                                    ],
+                                    "type": "text",
+                                    "content": "dimana Z<sup>+</sup> merupakan bilangan bulat",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        504,
+                        362,
+                        519
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                506,
+                                360,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        506,
+                                        360,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "5. Range selalu menjadi subhimpunan dari kodomain.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        525,
+                        464,
+                        556
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                526,
+                                463,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        526,
+                                        463,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                543,
+                                159,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        543,
+                                        159,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "temuan, yaitu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        563,
+                        464,
+                        593
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                564,
+                                462,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        564,
+                                        462,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "● pengertian domain, kodomain dan range terlihat jelas dalam konteks",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                109,
+                                580,
+                                140,
+                                594
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        580,
+                                        140,
+                                        594
+                                    ],
+                                    "type": "text",
+                                    "content": "nyata",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        89,
+                        598,
+                        246,
+                        613
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                599,
+                                244,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        599,
+                                        244,
+                                        612
+                                    ],
+                                    "type": "text",
+                                    "content": "● penulisan range yang tepat",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        619,
+                        464,
+                        651
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                621,
+                                462,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        621,
+                                        462,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru menggunakan penjelasan gambar 1.11 dan 1.12 untuk memantapkan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                636,
+                                463,
+                                652
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        636,
+                                        463,
+                                        652
+                                    ],
+                                    "type": "text",
+                                    "content": "pengertian domain dan range dan penulisannya dalam notasi himpunan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "bbox": [
+                        73,
+                        77,
+                        449,
+                        108
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                79,
+                                448,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        79,
+                                        448,
+                                        90
+                                    ],
+                                    "type": "text",
+                                    "content": "Berikan lagi satu contoh jika ada yang belum paham untuk menentukan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                95,
+                                435,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        95,
+                                        435,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "domain, kodomain dan range serta penulisannya dalam notasi himpunan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        75,
+                        118,
+                        109,
+                        151
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                75,
+                                118,
+                                109,
+                                151
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        118,
+                                        109,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                75,
+                                                118,
+                                                109,
+                                                151
+                                            ],
+                                            "type": "image",
+                                            "image_path": "15eb56ad1ebf847409a9d57ae445d69bc22fcc50cb6c7f5fd90824efe83563b6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        110,
+                        128,
+                        190,
+                        141
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                128,
+                                190,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        128,
+                                        190,
+                                        141
+                                    ],
+                                    "type": "text",
+                                    "content": "Ayo Berkomunikasi",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        168,
+                        450,
+                        222
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                171,
+                                441,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        171,
+                                        441,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "Siswa menjelaskan pengertian domain dan range dengan kata-kata sendiri.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                192,
+                                448,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        192,
+                                        448,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru meminta siswa memperhatikan gambar 1.13 untuk menjelaskan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                209,
+                                150,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        209,
+                                        150,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "pengertiannya.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        75,
+                        231,
+                        112,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                75,
+                                231,
+                                112,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        231,
+                                        112,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                75,
+                                                231,
+                                                112,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "28f81c613f1cb058538786427393240fca45f4f8ae5214051de62fdc0704b101.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        118,
+                        242,
+                        201,
+                        256
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                117,
+                                243,
+                                200,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        243,
+                                        200,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "Ayo Berpikir Kritis",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        273,
+                        450,
+                        320
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                273,
+                                448,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        273,
+                                        448,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "Kalian sudah memahami penggunaan domain, kodomain dan range dalam",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                289,
+                                449,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        289,
+                                        449,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "kehidupan sehari-hari. Berikan contoh lain dalam kehidupan nyata yang",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                305,
+                                304,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        305,
+                                        304,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": "membedakan pengertian kodomain dan range.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        326,
+                        450,
+                        357
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                327,
+                                448,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        327,
+                                        448,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "Contoh adalah relasi antara harga barang dengan jumlah barang dalam",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                344,
+                                113,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        344,
+                                        113,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "satuan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        371,
+                        178,
+                        387
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                370,
+                                176,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        370,
+                                        176,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "Masalah Ketiga",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        389,
+                        449,
+                        420
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                390,
+                                448,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        390,
+                                        448,
+                                        402
+                                    ],
+                                    "type": "text",
+                                    "content": "Pada eksplorasi bagian ketiga ini siswa perlu paham bagaimana fungsi",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                406,
+                                434,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        406,
+                                        434,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "terdefinisi. Grafik sangat menolong untuk menentukan fungsi terdefinisi.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        93,
+                        426,
+                        301,
+                        441
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                427,
+                                300,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        427,
+                                        300,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": "Perhatikan dua grafik dalam gambar 1.14.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        75,
+                        448,
+                        189,
+                        462
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                450,
+                                188,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        450,
+                                        188,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "a. Grafik fungsi akar.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        95,
+                        470,
+                        450,
+                        548
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                471,
+                                448,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        471,
+                                        448,
+                                        483
+                                    ],
+                                    "type": "text",
+                                    "content": "1) Kita tahu bahwa karena adanya akar kuadrat, kedua fungsi masing-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                486,
+                                448,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        488,
+                                        274,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "masing hanya mengambil input",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        276,
+                                        486,
+                                        305,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x \\geq 0",
+                                    "score": 0.8304
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        486,
+                                        330,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "dan",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        486,
+                                        380,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x - 1 \\geq 0",
+                                    "score": 0.8455
+                                },
+                                {
+                                    "bbox": [
+                                        381,
+                                        488,
+                                        448,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": ". Jadi domain",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                502,
+                                449,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        502,
+                                        449,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "dari masing-masing fungsi ialah semua bilangan riil non negatif",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                519,
+                                449,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        519,
+                                        449,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "(untuk fungsi pertama) dan semua bilangan riil lebih dari sama",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                535,
+                                268,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        535,
+                                        268,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": "dengan 1 (untuk fungsi kedua).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        94,
+                        551,
+                        304,
+                        567
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                551,
+                                300,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        553,
+                                        108,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "2)",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        117,
+                                        551,
+                                        300,
+                                        566
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ x \\mid x \\geq 0 , x \\in R \\} , \\{ x \\mid x \\geq 1 , x \\in R \\}",
+                                    "score": 0.8549
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        73,
+                        578,
+                        450,
+                        645
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                577,
+                                449,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        585,
+                                        130,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "b. Fungsi",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        577,
+                                        211,
+                                        600
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "f ( x ) = { \\frac { x ^ { 2 } - 2 } { x } }",
+                                    "score": 0.9444
+                                },
+                                {
+                                    "bbox": [
+                                        221,
+                                        584,
+                                        449,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "memiliki domain yang ditentukan oleh",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                600,
+                                449,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        600,
+                                        449,
+                                        614
+                                    ],
+                                    "type": "text",
+                                    "content": "pembaginya. Dalam hal ini pembaginya ialah semua nilai x riil dan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                616,
+                                449,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        616,
+                                        449,
+                                        630
+                                    ],
+                                    "type": "text",
+                                    "content": "bukan 0. Range adalah semua bilangan riil. Hal ini bisa dilihat dari grafik",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                633,
+                                160,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        633,
+                                        160,
+                                        644
+                                    ],
+                                    "type": "text",
+                                    "content": "di bawah ini:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        74,
+                        687,
+                        91,
+                        699
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 15,
+                    "lines": [
+                        {
+                            "bbox": [
+                                74,
+                                687,
+                                91,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        74,
+                                        687,
+                                        91,
+                                        705
+                                    ],
+                                    "type": "text",
+                                    "content": "28",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        99,
+                        687,
+                        358,
+                        700
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 16,
+                    "lines": [
+                        {
+                            "bbox": [
+                                101,
+                                690,
+                                356,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        101,
+                                        690,
+                                        356,
+                                        699
+                                    ],
+                                    "type": "text",
+                                    "content": "Buku Panduan Guru Matematika untuk SMA/SMK Kelas XI",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                540,
+                750
+            ],
+            "page_idx": 1,
+            "para_blocks": [
+                {
+                    "bbox": [
+                        73,
+                        77,
+                        449,
+                        108
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                79,
+                                448,
+                                90
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        79,
+                                        448,
+                                        90
+                                    ],
+                                    "type": "text",
+                                    "content": "Berikan lagi satu contoh jika ada yang belum paham untuk menentukan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                95,
+                                435,
+                                107
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        95,
+                                        435,
+                                        107
+                                    ],
+                                    "type": "text",
+                                    "content": "domain, kodomain dan range serta penulisannya dalam notasi himpunan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        75,
+                        118,
+                        109,
+                        151
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                75,
+                                118,
+                                109,
+                                151
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        118,
+                                        109,
+                                        151
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                75,
+                                                118,
+                                                109,
+                                                151
+                                            ],
+                                            "type": "image",
+                                            "image_path": "15eb56ad1ebf847409a9d57ae445d69bc22fcc50cb6c7f5fd90824efe83563b6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        110,
+                        128,
+                        190,
+                        141
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                128,
+                                190,
+                                141
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        128,
+                                        190,
+                                        141
+                                    ],
+                                    "type": "text",
+                                    "content": "Ayo Berkomunikasi",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        168,
+                        450,
+                        222
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                171,
+                                441,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        171,
+                                        441,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "Siswa menjelaskan pengertian domain dan range dengan kata-kata sendiri.",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                192,
+                                448,
+                                204
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        192,
+                                        448,
+                                        204
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru meminta siswa memperhatikan gambar 1.13 untuk menjelaskan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                209,
+                                150,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        209,
+                                        150,
+                                        220
+                                    ],
+                                    "type": "text",
+                                    "content": "pengertiannya.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        75,
+                        231,
+                        112,
+                        267
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                75,
+                                231,
+                                112,
+                                267
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        231,
+                                        112,
+                                        267
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                75,
+                                                231,
+                                                112,
+                                                267
+                                            ],
+                                            "type": "image",
+                                            "image_path": "28f81c613f1cb058538786427393240fca45f4f8ae5214051de62fdc0704b101.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        118,
+                        242,
+                        201,
+                        256
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                117,
+                                243,
+                                200,
+                                255
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        117,
+                                        243,
+                                        200,
+                                        255
+                                    ],
+                                    "type": "text",
+                                    "content": "Ayo Berpikir Kritis",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        273,
+                        450,
+                        320
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                273,
+                                448,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        273,
+                                        448,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "Kalian sudah memahami penggunaan domain, kodomain dan range dalam",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                289,
+                                449,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        289,
+                                        449,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "kehidupan sehari-hari. Berikan contoh lain dalam kehidupan nyata yang",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                305,
+                                304,
+                                321
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        305,
+                                        304,
+                                        321
+                                    ],
+                                    "type": "text",
+                                    "content": "membedakan pengertian kodomain dan range.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        326,
+                        450,
+                        357
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                327,
+                                448,
+                                339
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        327,
+                                        448,
+                                        339
+                                    ],
+                                    "type": "text",
+                                    "content": "Contoh adalah relasi antara harga barang dengan jumlah barang dalam",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                75,
+                                344,
+                                113,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        344,
+                                        113,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "satuan.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        74,
+                        371,
+                        178,
+                        387
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "index": 8,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                370,
+                                176,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        370,
+                                        176,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "Masalah Ketiga",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "level": 2
+                },
+                {
+                    "bbox": [
+                        73,
+                        389,
+                        449,
+                        420
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 9,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                390,
+                                448,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        390,
+                                        448,
+                                        402
+                                    ],
+                                    "type": "text",
+                                    "content": "Pada eksplorasi bagian ketiga ini siswa perlu paham bagaimana fungsi",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                76,
+                                406,
+                                434,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        406,
+                                        434,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "terdefinisi. Grafik sangat menolong untuk menentukan fungsi terdefinisi.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        93,
+                        426,
+                        301,
+                        441
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 10,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                427,
+                                300,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        427,
+                                        300,
+                                        441
+                                    ],
+                                    "type": "text",
+                                    "content": "Perhatikan dua grafik dalam gambar 1.14.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        75,
+                        448,
+                        189,
+                        462
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 11,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                450,
+                                188,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        450,
+                                        188,
+                                        462
+                                    ],
+                                    "type": "text",
+                                    "content": "a. Grafik fungsi akar.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        95,
+                        470,
+                        450,
+                        548
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 12,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                471,
+                                448,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        471,
+                                        448,
+                                        483
+                                    ],
+                                    "type": "text",
+                                    "content": "1) Kita tahu bahwa karena adanya akar kuadrat, kedua fungsi masing-",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                486,
+                                448,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        488,
+                                        274,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "masing hanya mengambil input",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        276,
+                                        486,
+                                        305,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x \\geq 0",
+                                    "score": 0.8304
+                                },
+                                {
+                                    "bbox": [
+                                        307,
+                                        486,
+                                        330,
+                                        500
+                                    ],
+                                    "type": "text",
+                                    "content": "dan",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        486,
+                                        380,
+                                        498
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "x - 1 \\geq 0",
+                                    "score": 0.8455
+                                },
+                                {
+                                    "bbox": [
+                                        381,
+                                        488,
+                                        448,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": ". Jadi domain",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                502,
+                                449,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        502,
+                                        449,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "dari masing-masing fungsi ialah semua bilangan riil non negatif",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                115,
+                                519,
+                                449,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        115,
+                                        519,
+                                        449,
+                                        531
+                                    ],
+                                    "type": "text",
+                                    "content": "(untuk fungsi pertama) dan semua bilangan riil lebih dari sama",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                116,
+                                535,
+                                268,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        116,
+                                        535,
+                                        268,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": "dengan 1 (untuk fungsi kedua).",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        94,
+                        551,
+                        304,
+                        567
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 13,
+                    "lines": [
+                        {
+                            "bbox": [
+                                95,
+                                551,
+                                300,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        553,
+                                        108,
+                                        569
+                                    ],
+                                    "type": "text",
+                                    "content": "2)",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        117,
+                                        551,
+                                        300,
+                                        566
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\{ x \\mid x \\geq 0 , x \\in R \\} , \\{ x \\mid x \\geq 1 , x \\in R \\}",
+                                    "score": 0.8549
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        73,
+                        578,
+                        450,
+                        645
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 14,
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                577,
+                                449,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        585,
+                                        130,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "b. Fungsi",
+                                    "score": 1.0
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        577,
+                                        211,
+                                        600
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "f ( x ) = { \\frac { x ^ { 2 } - 2 } { x } }",
+                                    "score": 0.9444
+                                },
+                                {
+                                    "bbox": [
+                                        221,
+                                        584,
+                                        449,
+                                        597
+                                    ],
+                                    "type": "text",
+                                    "content": "memiliki domain yang ditentukan oleh",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                600,
+                                449,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        600,
+                                        449,
+                                        614
+                                    ],
+                                    "type": "text",
+                                    "content": "pembaginya. Dalam hal ini pembaginya ialah semua nilai x riil dan",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                95,
+                                616,
+                                449,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        95,
+                                        616,
+                                        449,
+                                        630
+                                    ],
+                                    "type": "text",
+                                    "content": "bukan 0. Range adalah semua bilangan riil. Hal ini bisa dilihat dari grafik",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                96,
+                                633,
+                                160,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        633,
+                                        160,
+                                        644
+                                    ],
+                                    "type": "text",
+                                    "content": "di bawah ini:",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        74,
+                        465,
+                        302
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                74,
+                                465,
+                                302
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        74,
+                                        465,
+                                        302
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                74,
+                                                465,
+                                                302
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ff2e2cc849078f249bc96480daaef717531ebc439d7c3b388a3232ab07f0cc82.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        87,
+                        321,
+                        465,
+                        352
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                322,
+                                463,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        322,
+                                        463,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                339,
+                                159,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        339,
+                                        159,
+                                        351
+                                    ],
+                                    "type": "text",
+                                    "content": "temuan, yaitu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        358,
+                        314,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                360,
+                                311,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        360,
+                                        311,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "● pentingnya memahami fungsi terdefinisi",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        378,
+                        310,
+                        393
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                378,
+                                306,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        378,
+                                        306,
+                                        392
+                                    ],
+                                    "type": "text",
+                                    "content": "● penulisan domain dan range yang tepat.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        87,
+                        408,
+                        465,
+                        520
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                409,
+                                463,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        409,
+                                        463,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru menekankan bahwa penentuan domain dan range suatu fungsi",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                425,
+                                462,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        425,
+                                        462,
+                                        437
+                                    ],
+                                    "type": "text",
+                                    "content": "berkaitan dengan konteksnya. Contoh, biaya pembuatan kue diberikan oleh",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                441,
+                                462,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        441,
+                                        462,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "B x^ h = + 40000 10x dengan x adalah jumlah kue. Jika digambarkan maka",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                457,
+                                462,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        457,
+                                        462,
+                                        471
+                                    ],
+                                    "type": "text",
+                                    "content": "fungsi ini berupa garis lurus dan domainnya adalah x > 0 dengan x",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                473,
+                                463,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        473,
+                                        463,
+                                        487
+                                    ],
+                                    "type": "text",
+                                    "content": "merupakan bilangan bulat. Rangenya juga merupakan bilangan bulat. Minta",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                488,
+                                463,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        488,
+                                        463,
+                                        502
+                                    ],
+                                    "type": "text",
+                                    "content": "siswa menemukan contoh-contoh lain yang menunjukkan konteks untuk",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                505,
+                                300,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        505,
+                                        300,
+                                        518
+                                    ],
+                                    "type": "text",
+                                    "content": "menentukan domain, kodomain dan range.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        87,
+                        526,
+                        465,
+                        574
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                528,
+                                461,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        528,
+                                        461,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru dapat memberikan contoh-contoh lain untuk menentukan domain",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                543,
+                                462,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        543,
+                                        462,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "dan range dari fungsi eksponensial dan fungsi kuadrat. Gunakan grafik",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                558,
+                                373,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        558,
+                                        373,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "terlebih dahulu dilanjutkan dengan bentuk aljabar fungsi.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        271,
+                        687,
+                        430,
+                        700
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "index": 6,
+                    "lines": [
+                        {
+                            "bbox": [
+                                273,
+                                689,
+                                428,
+                                699
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        273,
+                                        689,
+                                        428,
+                                        699
+                                    ],
+                                    "type": "text",
+                                    "content": "Bab 1 | Komposisi Fungsi dan Invers",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "bbox": [
+                        442,
+                        687,
+                        461,
+                        699
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "index": 7,
+                    "lines": [
+                        {
+                            "bbox": [
+                                443,
+                                687,
+                                460,
+                                704
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        443,
+                                        687,
+                                        460,
+                                        704
+                                    ],
+                                    "type": "text",
+                                    "content": "29",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "page_size": [
+                540,
+                750
+            ],
+            "page_idx": 2,
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        88,
+                        74,
+                        465,
+                        302
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                74,
+                                465,
+                                302
+                            ],
+                            "type": "image_body",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        74,
+                                        465,
+                                        302
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                74,
+                                                465,
+                                                302
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ff2e2cc849078f249bc96480daaef717531ebc439d7c3b388a3232ab07f0cc82.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        87,
+                        321,
+                        465,
+                        352
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 1,
+                    "lines": [
+                        {
+                            "bbox": [
+                                109,
+                                322,
+                                463,
+                                335
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        109,
+                                        322,
+                                        463,
+                                        335
+                                    ],
+                                    "type": "text",
+                                    "content": "Setelah diskusi kelompok dan kelas, guru dapat menyimpulkan hasil",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                339,
+                                159,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        339,
+                                        159,
+                                        351
+                                    ],
+                                    "type": "text",
+                                    "content": "temuan, yaitu",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        358,
+                        314,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 2,
+                    "lines": [
+                        {
+                            "bbox": [
+                                90,
+                                360,
+                                311,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        360,
+                                        311,
+                                        372
+                                    ],
+                                    "type": "text",
+                                    "content": "● pentingnya memahami fungsi terdefinisi",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        88,
+                        378,
+                        310,
+                        393
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 3,
+                    "lines": [
+                        {
+                            "bbox": [
+                                91,
+                                378,
+                                306,
+                                392
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        91,
+                                        378,
+                                        306,
+                                        392
+                                    ],
+                                    "type": "text",
+                                    "content": "● penulisan domain dan range yang tepat.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        87,
+                        408,
+                        465,
+                        520
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 4,
+                    "lines": [
+                        {
+                            "bbox": [
+                                110,
+                                409,
+                                463,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        110,
+                                        409,
+                                        463,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru menekankan bahwa penentuan domain dan range suatu fungsi",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                425,
+                                462,
+                                437
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        425,
+                                        462,
+                                        437
+                                    ],
+                                    "type": "text",
+                                    "content": "berkaitan dengan konteksnya. Contoh, biaya pembuatan kue diberikan oleh",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                92,
+                                441,
+                                462,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        92,
+                                        441,
+                                        462,
+                                        454
+                                    ],
+                                    "type": "text",
+                                    "content": "B x^ h = + 40000 10x dengan x adalah jumlah kue. Jika digambarkan maka",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                457,
+                                462,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        457,
+                                        462,
+                                        471
+                                    ],
+                                    "type": "text",
+                                    "content": "fungsi ini berupa garis lurus dan domainnya adalah x > 0 dengan x",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                473,
+                                463,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        473,
+                                        463,
+                                        487
+                                    ],
+                                    "type": "text",
+                                    "content": "merupakan bilangan bulat. Rangenya juga merupakan bilangan bulat. Minta",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                488,
+                                463,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        488,
+                                        463,
+                                        502
+                                    ],
+                                    "type": "text",
+                                    "content": "siswa menemukan contoh-contoh lain yang menunjukkan konteks untuk",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                89,
+                                505,
+                                300,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        505,
+                                        300,
+                                        518
+                                    ],
+                                    "type": "text",
+                                    "content": "menentukan domain, kodomain dan range.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                },
+                {
+                    "bbox": [
+                        87,
+                        526,
+                        465,
+                        574
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "index": 5,
+                    "lines": [
+                        {
+                            "bbox": [
+                                111,
+                                528,
+                                461,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        111,
+                                        528,
+                                        461,
+                                        539
+                                    ],
+                                    "type": "text",
+                                    "content": "Guru dapat memberikan contoh-contoh lain untuk menentukan domain",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                543,
+                                462,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        543,
+                                        462,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "dan range dari fungsi eksponensial dan fungsi kuadrat. Gunakan grafik",
+                                    "score": 1.0
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                90,
+                                558,
+                                373,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        90,
+                                        558,
+                                        373,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "terlebih dahulu dilanjutkan dengan bentuk aljabar fungsi.",
+                                    "score": 1.0
+                                }
+                            ]
+                        }
+                    ],
+                    "merge_prev": false
+                }
+            ]
+        }
+    ],
+    "_backend": "hybrid",
+    "_effort": "medium",
+    "_ocr_enable": false,
+    "_version_name": "3.4.0"
+}

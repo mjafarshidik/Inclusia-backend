@@ -1,0 +1,18 @@
+# Ignore python virtual environments and other build artifacts
+.gcloudignore
+.git
+.gitignore
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.idea/
+.vscode/
+*.log
+static/uploaded_images/
+.env
+firebase/serviceAccountKey.json
+

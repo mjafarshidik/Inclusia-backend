@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+firebase-admin==6.5.0
+google-generativeai==0.7.1
+python-dotenv==1.0.1
+gunicorn==22.0.0
+Werkzeug==3.0.3
+google-genai==1.47.0
+Pillow==10.4.0
+tenacity>=8.5.0
+google-adk
